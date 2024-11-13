@@ -1,9 +1,5 @@
 # Exercise 1 - Hello World - Display a Message Box
 
-### Reg No :212222223002
-
-### Date : 30/09/2024
-
 ## AIM: 
   To create a workflow that displays a "Hello World" message box.
 
